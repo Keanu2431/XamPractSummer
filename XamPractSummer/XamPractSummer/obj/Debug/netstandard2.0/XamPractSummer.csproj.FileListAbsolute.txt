@@ -1,0 +1,14 @@
+/Users/keanulumpkin/Desktop/XamPractSummer/XamPractSummer/XamPractSummer/bin/Debug/netstandard2.0/XamPractSummer.deps.json
+/Users/keanulumpkin/Desktop/XamPractSummer/XamPractSummer/XamPractSummer/bin/Debug/netstandard2.0/XamPractSummer.dll
+/Users/keanulumpkin/Desktop/XamPractSummer/XamPractSummer/XamPractSummer/bin/Debug/netstandard2.0/XamPractSummer.pdb
+/Users/keanulumpkin/Desktop/XamPractSummer/XamPractSummer/XamPractSummer/obj/Debug/netstandard2.0/XamPractSummer.csproj.AssemblyReference.cache
+/Users/keanulumpkin/Desktop/XamPractSummer/XamPractSummer/XamPractSummer/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/keanulumpkin/Desktop/XamPractSummer/XamPractSummer/XamPractSummer/obj/Debug/netstandard2.0/XamPractSummer.AssemblyInfoInputs.cache
+/Users/keanulumpkin/Desktop/XamPractSummer/XamPractSummer/XamPractSummer/obj/Debug/netstandard2.0/XamPractSummer.AssemblyInfo.cs
+/Users/keanulumpkin/Desktop/XamPractSummer/XamPractSummer/XamPractSummer/obj/Debug/netstandard2.0/XamPractSummer.csproj.CoreCompileInputs.cache
+/Users/keanulumpkin/Desktop/XamPractSummer/XamPractSummer/XamPractSummer/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/keanulumpkin/Desktop/XamPractSummer/XamPractSummer/XamPractSummer/obj/Debug/netstandard2.0/XamPractSummer.dll
+/Users/keanulumpkin/Desktop/XamPractSummer/XamPractSummer/XamPractSummer/obj/Debug/netstandard2.0/XamPractSummer.pdb
+/Users/keanulumpkin/Desktop/XamPractSummer/XamPractSummer/XamPractSummer/obj/Debug/netstandard2.0/XamPractSummer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/keanulumpkin/Desktop/XamPractSummer/XamPractSummer/XamPractSummer/obj/Debug/netstandard2.0/Views/HomePage.xaml.g.cs
+/Users/keanulumpkin/Desktop/XamPractSummer/XamPractSummer/XamPractSummer/obj/Debug/netstandard2.0/Views/LoginPage.xaml.g.cs
