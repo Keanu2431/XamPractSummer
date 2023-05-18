@@ -12,3 +12,4 @@
 /Users/keanulumpkin/Desktop/XamPractSummer/XamPractSummer/XamPractSummer/obj/Debug/netstandard2.0/XamPractSummer.GeneratedMSBuildEditorConfig.editorconfig
 /Users/keanulumpkin/Desktop/XamPractSummer/XamPractSummer/XamPractSummer/obj/Debug/netstandard2.0/Views/HomePage.xaml.g.cs
 /Users/keanulumpkin/Desktop/XamPractSummer/XamPractSummer/XamPractSummer/obj/Debug/netstandard2.0/Views/LoginPage.xaml.g.cs
+/Users/keanulumpkin/Desktop/XamPractSummer/XamPractSummer/XamPractSummer/bin/Debug/netstandard2.0/growth.jpeg

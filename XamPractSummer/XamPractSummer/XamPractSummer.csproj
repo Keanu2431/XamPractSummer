@@ -17,4 +17,11 @@
       <Folder Include="Model\" />
       <Folder Include="ViewModel\" />
     </ItemGroup>
+
+    <ItemGroup>
+      <None Remove="growth.jpeg" />
+      <EmbeddedResource Include="growth.jpeg">
+        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      </EmbeddedResource>
+    </ItemGroup>
 </Project>
