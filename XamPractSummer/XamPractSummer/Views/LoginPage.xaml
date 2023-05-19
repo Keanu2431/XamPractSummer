@@ -3,8 +3,11 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="XamPractSummer.Views.LoginPage"
-             xmlns:viewmodel="clr-namespace:XamPractSummer.ViewModel;assembly=XamPractSummer"
-             Style="{StaticResource BackgroundStyle}">
+             xmlns:viewmodel="clr-namespace:XamPractSummer.ViewModel; assembly=XamPractSummer"
+             Style="{StaticResource BackgroundStyle}"
+             NavigationPage.HasNavigationBar="False"
+             >
+    <ContentPage.Title> </ContentPage.Title>
     <ContentPage.BindingContext>
         <viewmodel:LoginPageViewModel />
     </ContentPage.BindingContext>
@@ -20,8 +23,10 @@
                     VerticalOptions="FillAndExpand" Aspect="AspectFill" />
             </Frame>
             <StackLayout x:Name="EntryCont">
-                <Entry Style="{StaticResource EntryStyle}" Placeholder="Employee Email" Keyboard="Email" Text="{Binding Email}" />
-                <Entry Style="{StaticResource EntryStyle}" Placeholder="Password" IsPassword="True" Text="{Binding Password}" />
+                <Entry Style="{StaticResource EntryStyle}" Placeholder="Employee Email" Keyboard="Email"
+                       Text="{Binding Email}" />
+                <Entry Style="{StaticResource EntryStyle}" Placeholder="Password" IsPassword="True"
+                       Text="{Binding Password}" />
             </StackLayout>
             <StackLayout x:Name="ButtonCont" Orientation="Horizontal" HorizontalOptions="Center" Margin="0,20">
                 <Button Style="{StaticResource MainButtonStyle}" BackgroundColor="{StaticResource PrimaryBlue}"
@@ -29,6 +34,7 @@
                 <Button Style="{StaticResource MainButtonStyle}" Text="Register"
                         BackgroundColor="{StaticResource SecondaryBlue}" />
             </StackLayout>
+            <Label Style="{StaticResource LabelTitle}" TextColor="Red" Text="{Binding  ErrorMessage}" IsVisible="{Binding IsLoginError}" />
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

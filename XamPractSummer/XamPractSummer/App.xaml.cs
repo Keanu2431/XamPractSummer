@@ -13,7 +13,7 @@ namespace XamPractSummer
         {
             InitializeComponent();
 
-            MainPage = new NavigationPage(new HomePage());
+            MainPage = new NavigationPage(new LoginPage());
         }
 
         protected override void OnStart()

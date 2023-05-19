@@ -1,12 +1,29 @@
 ﻿<Properties StartupConfiguration="{2E95B656-3D1B-401E-8907-769E20A5DB49}|Default">
-  <MonoDevelop.MonoDroid LastDeploySdkVersion="13.2.0.0" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.XamPractSummer.Droid PreferredExecutionTarget="Android.pixel-5-base" />
+  <MonoDevelop.MonoDroid LastDeploySdkVersion="13.2.0.0" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="XamPractSummer/XamPractSummer/ViewModel/LoginPageViewModel.cs">
+    <Files>
+      <File FileName="XamPractSummer/XamPractSummer/ViewModel/LoginPageViewModel.cs" Line="51" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="XamPractSummer" expanded="True">
+            <Node name="XamPractSummer" expanded="True">
+              <Node name="ViewModel" expanded="True">
+                <Node name="LoginPageViewModel.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
   <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.pixel-5-base" />
+  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench />
-  <MultiItemStartupConfigurations />
 </Properties>
