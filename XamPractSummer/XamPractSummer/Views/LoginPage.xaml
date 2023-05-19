@@ -3,7 +3,11 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="XamPractSummer.Views.LoginPage"
+             xmlns:viewmodel="clr-namespace:XamPractSummer.ViewModel;assembly=XamPractSummer"
              Style="{StaticResource BackgroundStyle}">
+    <ContentPage.BindingContext>
+        <viewmodel:LoginPageViewModel />
+    </ContentPage.BindingContext>
     <ContentPage.Content>
         <StackLayout>
             <Label Text="Mentorship App Title" Style="{StaticResource LabelTitle}" Margin="0 ,20" />
@@ -16,12 +20,12 @@
                     VerticalOptions="FillAndExpand" Aspect="AspectFill" />
             </Frame>
             <StackLayout x:Name="EntryCont">
-                <Entry Style="{StaticResource EntryStyle}" Placeholder="Employee Email" Keyboard="Email" />
-                <Entry Style="{StaticResource EntryStyle}" Placeholder="Password" IsPassword="True" />
+                <Entry Style="{StaticResource EntryStyle}" Placeholder="Employee Email" Keyboard="Email" Text="{Binding Email}" />
+                <Entry Style="{StaticResource EntryStyle}" Placeholder="Password" IsPassword="True" Text="{Binding Password}" />
             </StackLayout>
             <StackLayout x:Name="ButtonCont" Orientation="Horizontal" HorizontalOptions="Center" Margin="0,20">
                 <Button Style="{StaticResource MainButtonStyle}" BackgroundColor="{StaticResource PrimaryBlue}"
-                        Text="Login" />
+                        Text="Login" Command="{Binding LoginCommand}" />
                 <Button Style="{StaticResource MainButtonStyle}" Text="Register"
                         BackgroundColor="{StaticResource SecondaryBlue}" />
             </StackLayout>

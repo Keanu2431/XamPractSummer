@@ -14,7 +14,6 @@
         <AndroidManifest>Properties\AndroidManifest.xml</AndroidManifest>
         <MonoAndroidResourcePrefix>Resources</MonoAndroidResourcePrefix>
         <MonoAndroidAssetsPrefix>Assets</MonoAndroidAssetsPrefix>
-        <AndroidUseLatestPlatformSdk>false</AndroidUseLatestPlatformSdk>
         <TargetFrameworkVersion>v13.0</TargetFrameworkVersion>
         <AndroidHttpClientHandlerType>Xamarin.Android.Net.AndroidClientHandler</AndroidHttpClientHandlerType>
     </PropertyGroup>
@@ -67,7 +66,7 @@
     </ItemGroup>
     <ItemGroup>
         <ProjectReference Include="..\XamPractSummer\XamPractSummer.csproj">
-            <Project>{7BB39C64-AD38-4B4A-80F8-E847FEC0CD7D}</Project>
+            <Project>{99334A00-5830-4064-A959-FE84F3E7CAC1}</Project>
             <Name>XamPractSummer</Name>
         </ProjectReference>
     </ItemGroup>

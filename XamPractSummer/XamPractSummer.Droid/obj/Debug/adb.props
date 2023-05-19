@@ -1,2 +1,2 @@
-AdbTarget=-s emulator-5554
+AdbTarget=-s adb-R5CTB2EMKSY-RB85sQ._adb-tls-connect._tcp.
 AdbOptions=

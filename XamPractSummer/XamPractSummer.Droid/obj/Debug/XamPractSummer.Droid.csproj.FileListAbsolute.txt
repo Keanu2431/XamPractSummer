@@ -1,3 +1,4 @@
+/Users/keanulumpkin/Desktop/XamPractSummer/XamPractSummer/XamPractSummer.Droid/bin/Debug/growth.jpeg
 /Users/keanulumpkin/Desktop/XamPractSummer/XamPractSummer/XamPractSummer.Droid/bin/Debug/XamPractSummer.Droid.dll
 /Users/keanulumpkin/Desktop/XamPractSummer/XamPractSummer/XamPractSummer.Droid/bin/Debug/XamPractSummer.Droid.pdb
 /Users/keanulumpkin/Desktop/XamPractSummer/XamPractSummer/XamPractSummer.Droid/bin/Debug/com.companyname.XamPractSummer.apk
@@ -421,6 +422,7 @@
 /Users/keanulumpkin/Desktop/XamPractSummer/XamPractSummer/XamPractSummer.Droid/obj/Debug/android/src/crc643f46942d9dd1fff9/VisualElementTracker_AttachTracker.java
 /Users/keanulumpkin/Desktop/XamPractSummer/XamPractSummer/XamPractSummer.Droid/obj/Debug/android/src/crc643f46942d9dd1fff9/WebViewRenderer.java
 /Users/keanulumpkin/Desktop/XamPractSummer/XamPractSummer/XamPractSummer.Droid/obj/Debug/android/src/crc643f46942d9dd1fff9/WebViewRenderer_JavascriptResult.java
+/Users/keanulumpkin/Desktop/XamPractSummer/XamPractSummer/XamPractSummer.Droid/obj/Debug/android/src/crc645d280b0a9c5e87e2/CircleImageDroid.java
 /Users/keanulumpkin/Desktop/XamPractSummer/XamPractSummer/XamPractSummer.Droid/obj/Debug/android/src/crc64720bb2db43a66fe9/ButtonRenderer.java
 /Users/keanulumpkin/Desktop/XamPractSummer/XamPractSummer/XamPractSummer.Droid/obj/Debug/android/src/crc64720bb2db43a66fe9/CarouselPageRenderer.java
 /Users/keanulumpkin/Desktop/XamPractSummer/XamPractSummer/XamPractSummer.Droid/obj/Debug/android/src/crc64720bb2db43a66fe9/FormsFragmentPagerAdapter_1.java
@@ -550,5 +552,3 @@
 /Users/keanulumpkin/Desktop/XamPractSummer/XamPractSummer/XamPractSummer.Droid/obj/Debug/stamp/_GenerateJavaStubs.stamp
 /Users/keanulumpkin/Desktop/XamPractSummer/XamPractSummer/XamPractSummer.Droid/obj/Debug/stamp/_GeneratePackageManagerJava.stamp
 /Users/keanulumpkin/Desktop/XamPractSummer/XamPractSummer/XamPractSummer.Droid/obj/Debug/stamp/_ResolveLibraryProjectImports.stamp
-/Users/keanulumpkin/Desktop/XamPractSummer/XamPractSummer/XamPractSummer.Droid/bin/Debug/growth.jpeg
-/Users/keanulumpkin/Desktop/XamPractSummer/XamPractSummer/XamPractSummer.Droid/obj/Debug/android/src/crc645d280b0a9c5e87e2/CircleImageDroid.java
